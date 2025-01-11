@@ -1,0 +1,10 @@
+pytesseract
+torch
+transformers
+deskew
+gTTS
+streamlit_option_menu
+firebase_admin
+streamlit
+opencv-python
+sentencepiece
