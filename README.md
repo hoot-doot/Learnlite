@@ -10,6 +10,8 @@ pinned: false
 ---
 # Learnlite
 clone from huggingface space
+https://huggingface.co/spaces/Ho-ot/Learnlite
+(loading model might take a while)
 
 ![Learnlite](https://github.com/hoot-doot/Learnlite/blob/main/ss%20of%20project/1.png)
 ![Learnlite](https://github.com/hoot-doot/Learnlite/blob/main/ss%20of%20project/2.png)
