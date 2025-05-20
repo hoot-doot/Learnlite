@@ -9,7 +9,7 @@ app_file: app.py
 pinned: false
 ---
 # Learnlite
-clone from huggingface space
+cloned my project from huggingface space
 https://huggingface.co/spaces/Ho-ot/Learnlite
 (loading model might take a while)
 
