@@ -13,6 +13,8 @@ cloned my project from huggingface space
 https://huggingface.co/spaces/Ho-ot/Learnlite
 (loading model might take a while)
 
+# Datacleaning and tests <a>https://github.com/hoot-doot/LLM-test</a>
+
 ![Learnlite](https://github.com/hoot-doot/Learnlite/blob/main/ss%20of%20project/1.png)
 ![Learnlite](https://github.com/hoot-doot/Learnlite/blob/main/ss%20of%20project/2.png)
 ![Learnlite](https://github.com/hoot-doot/Learnlite/blob/main/ss%20of%20project/3.png)
